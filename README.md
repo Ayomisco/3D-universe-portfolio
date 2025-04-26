@@ -92,3 +92,31 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the Next.js team for their amazing framework
 - Special thanks to the Three.js community for their documentation and examples
 - Appreciation to all contributors who have helped improve this project
+
+## Screenshots
+
+Here are some screenshots showcasing the project:
+
+### Loading Screen
+
+![Loading Screen](./screenshots/loading.png)
+
+### Galaxy View
+
+![Galaxy View](./screenshots/galaxy.png)
+
+### Frontend Interface
+
+![Frontend Interface](./screenshots/frontend.png)
+
+### Design & Chat
+
+![Design & Chat](./screenshots/design%20%26%20cchat.png)
+
+### Terminal Interface
+
+![Terminal Interface](./screenshots/terminal.png)
+
+### Terminal Interface 2
+
+![Terminal Interface 2](./screenshots/terminal2.png)
