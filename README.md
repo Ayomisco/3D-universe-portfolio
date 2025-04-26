@@ -2,6 +2,8 @@
 
 A futuristic, interactive portfolio website built with Next.js, Three.js, and TypeScript, featuring a stunning 3D cosmic interface.
 
+Live Demo > [https://3d-universe-portfolio.vercel.app/](https://3d-universe-portfolio.vercel.app/)
+
 ## Features
 
 - 🌌 3D Interactive Cosmic Scene
